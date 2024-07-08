@@ -1,0 +1,9 @@
+:root {
+  --primary: #ff9900;
+  --dark1: #000;
+  --dark2: rgba(0, 0, 0, 0.5);
+  --dark3: rgba(0, 0, 0, 0.1);
+  --light1: #fff;
+  --light2: rgba(255, 255, 255, 0.5);
+  --light3: rgba(255, 255, 255, 0.1);
+}
